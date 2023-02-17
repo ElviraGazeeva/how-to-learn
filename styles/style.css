@@ -29,7 +29,7 @@
   position: absolute;
   top: 30px;
   left: 64px;
-  z-index: 1;
+  z-index: 2;
 }
 
 .header__title {
@@ -38,8 +38,8 @@
   font-weight: 600;
   width: 730px;
   align-self: center;
-  margin-left: 64px;
-  z-index: 1;
+  margin: 0 0 0 64px;
+  z-index: 2;
 }
 
 .header__subtitle {
@@ -50,7 +50,8 @@
   position: absolute;
   bottom: 30px;
   left: 64px;
-  z-index: 1;
+  z-index: 2;
+  margin: 0;
 }
 
 .header__link {
