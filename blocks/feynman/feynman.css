@@ -1,5 +1,6 @@
 .feynman {
   min-height: 890px;
+  padding-top: 100px;
   display:flex;
   flex-direction: column;
   position: relative;
